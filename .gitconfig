@@ -1,0 +1,12 @@
+[user]
+	name = Tim Huegdon
+	email = tim@nefariousdesigns.co.uk
+[core]
+	excludesfile = ~/.gitexcludes
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[alias]
+	slog = log --oneline --decorate
