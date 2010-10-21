@@ -2,3 +2,7 @@
 .cache
 .viminfo
 .ssh
+.node_libraries/
+bin/
+share/
+src/
