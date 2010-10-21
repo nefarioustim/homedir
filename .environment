@@ -1,0 +1,2 @@
+export MANPATH="~/share/man:"
+export PATH="~/bin:$PATH"
