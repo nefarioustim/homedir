@@ -16,7 +16,6 @@
     set showmatch                   " Automatically show matching brace/parens/etc.
 	set number
     set cursorline
-    set background=dark
 
 " Ruler / Rulerformat 
     if has('cmdline_info')
